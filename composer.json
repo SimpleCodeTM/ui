@@ -1,6 +1,6 @@
 {
     "name": "SimpleCodeTM/ui",
-    "description": "A short description of what your package does",
+    "description": "Kichi Kichi Start test",
     "require": {
         "php": ">=7.4",
         "another-vendor/package": "1.*"
